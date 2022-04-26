@@ -335,7 +335,7 @@
         display: flex;
         justify-content: center;
     }
-    .team-social-list{
+     .team-social .team-social-list:not(:last-child){
      margin-left: 10px;
      }
     .team-social-icon{
